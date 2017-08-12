@@ -2,7 +2,7 @@
 
 UPCOMING TUTORIAL on Word Representations and how they are important for NLP applications. The files and code will be uploaded soon! 
 
-If you would like to see any specific NLP application in the tutorial, like text classification, create an issue on this github. I will try to incorporate applications from issues in the tutorial.
+**If you would like to see any specific NLP application in the tutorial, like text classification, create an issue on this github. I will try to incorporate applications from issues in the tutorial.**
 
 
 The contents are as following :-
